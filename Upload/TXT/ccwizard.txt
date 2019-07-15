@@ -1,0 +1,8 @@
+name="[KODI 18] CC Simple Build"
+url="https://cheapchannels.github.io/build/CC_Simple.zip"
+img="https://cheapchannels.github.io/images/CC_Simple_icon.png"
+fanart="https://cheapchannels.github.io/images/CC_Simple_fanart.png"
+description="Super lightweight, simple build. Perfect for Firestick."
+version="1.0"
+
+
